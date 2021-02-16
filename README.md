@@ -1,2 +1,3 @@
 # producer-consumer-server
-POSIX thread producer and consumer server, run make &amp;&amp; ./pcserver
+POSIX thread producer and consumer server, 
+**make &amp;&amp; ./pcserver && ./producer localhost port N rate bad** 
